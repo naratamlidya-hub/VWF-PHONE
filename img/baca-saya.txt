@@ -1,0 +1,2 @@
+Taruh foto kamu di folder ini (wallpaper, profil, feed, galeri),
+lalu tulis nama filenya di config.js.
